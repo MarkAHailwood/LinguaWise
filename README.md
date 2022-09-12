@@ -1,0 +1,2 @@
+# LinguaWise
+Language improvement application
